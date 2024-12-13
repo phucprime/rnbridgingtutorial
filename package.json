@@ -12,7 +12,7 @@
     "codegen:ios": "node node_modules/react-native/scripts/generate-codegen-artifacts.js --path . --outputPath ./ios"
   },
   "dependencies": {
-    "@react-navigation/native": "^6.1.2",
+    "@react-navigation/native": "^7.0.14",
     "@react-navigation/native-stack": "^6.9.8",
     "react": "18.2.0",
     "react-native": "0.71.1",
