@@ -8258,13 +8258,13 @@ __metadata:
   languageName: node
   linkType: hard
 
-"react-native-safe-area-context@npm:^4.5.0":
-  version: 4.5.0
-  resolution: "react-native-safe-area-context@npm:4.5.0"
+"react-native-safe-area-context@npm:^4.14.1":
+  version: 4.14.1
+  resolution: "react-native-safe-area-context@npm:4.14.1"
   peerDependencies:
     react: "*"
     react-native: "*"
-  checksum: 958df1d20492aa89c23d746f88409a3a3bd1b0d397c80310a4b0bbec9888cbbeb7579c9c92dad46841e2e6536491806206228ba009b7c8af970670aef8273a30
+  checksum: acf94ea2a30a3ec5594b467f8e0942ac48c10cbb5d34d16beba33cc0052f7c82dfd6ace754fa55f41d55143f134d3d3fa908eaf4cc9dec5743d6c4483b23520a
   languageName: node
   linkType: hard
 
@@ -8726,7 +8726,7 @@ __metadata:
     metro-react-native-babel-preset: 0.73.7
     react: 18.2.0
     react-native: 0.71.1
-    react-native-safe-area-context: ^4.5.0
+    react-native-safe-area-context: ^4.14.1
     react-native-screens: ^3.19.0
     react-test-renderer: 18.2.0
     ts-jest: 29.0.3
